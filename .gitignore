@@ -1,0 +1,4 @@
+# Kizárt fájlok
+*.zip
+*.log
+node_modules/
